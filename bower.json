@@ -1,12 +1,12 @@
 {
-  "name": "ui-custom-driver-composer",
-  "description": "A small utility to build custom UI for custom drivers added to the Rancher UI project",
+  "name": "ui-driver-ovh",
+  "description": "Rancher UI driver for OVH Cloud",
   "main": "",
   "authors": [
-    "Westly Wright <westly.wright@gmail.com>"
+    "Zadkiel Aslafy-Aharonian <zadkiel.aharonian@gmail.com>"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/westlywright/ui-custom-driver-composer",
+  "homepage": "https://github.com/aslafy-z/ui-driver-ovh",
   "moduleType": [],
   "private": true,
   "ignore": [
